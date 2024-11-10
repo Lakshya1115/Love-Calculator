@@ -52,8 +52,8 @@ flutter-tkinter-app/ ├── android/ # Android-specific configurations ├─
 
 ## Screenshots
 
-![Screenshot 1](![image](love_calculator/assets/Screenshot 2024-11-10 192734.png)
-![Screenshot 2](![image](love_calculator/assets/Screenshot 2024-11-10 192646.png)
+![Screenshot 1](![image](love_calculator/assets/Screenshot 2024-11-10 192734.png))
+![Screenshot 2](![image](love_calculator/assets/Screenshot 2024-11-10 192646.png))
 
 ## Contributing
 
