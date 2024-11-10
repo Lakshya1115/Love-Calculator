@@ -52,8 +52,10 @@ flutter-tkinter-app/ ├── android/ # Android-specific configurations ├─
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
+![Screenshot 1](![image](https://github.com/user-attachments/assets/9e27cb2b-286b-46c3-93fc-048174e04c24)
+)
+![Screenshot 2](![image](https://github.com/user-attachments/assets/de825f15-5f84-4ae0-b336-c7e343de68c4)
+)
 
 ## Contributing
 
