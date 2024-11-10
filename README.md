@@ -48,3 +48,35 @@ This Flutter app is designed to provide the same functionality as the original P
 Here’s a quick overview of the project folder structure:
 
 flutter-tkinter-app/ ├── android/ # Android-specific configurations ├── ios/ # iOS-specific configurations (optional for Android-only) ├── lib/ # Main Flutter code │ ├── main.dart # Entry point of the app │ └── widgets/ # Custom Flutter widgets ├── test/ # Unit and widget tests └── README.md # This file
+
+
+## Screenshots
+
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
+
+## Contributing
+
+We welcome contributions to improve this project! If you have suggestions, bug fixes, or want to enhance the app, feel free to submit a pull request. Here’s how you can contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your forked repository
+5. Open a pull request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This Flutter app is based on an original Python Tkinter project. Thanks to [Original Creator's Name] for the core logic.
+- Flutter SDK for providing an amazing framework to build this app.
+
+---
+
+Enjoy using and contributing to this project! Feel free to reach out if you have any questions or need help.
+
+Happy coding! 🎉
+
