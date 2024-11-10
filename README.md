@@ -47,3 +47,4 @@ This Flutter app is designed to provide the same functionality as the original P
 
 Here’s a quick overview of the project folder structure:
 
+flutter-tkinter-app/ ├── android/ # Android-specific configurations ├── ios/ # iOS-specific configurations (optional for Android-only) ├── lib/ # Main Flutter code │ ├── main.dart # Entry point of the app │ └── widgets/ # Custom Flutter widgets ├── test/ # Unit and widget tests └── README.md # This file
